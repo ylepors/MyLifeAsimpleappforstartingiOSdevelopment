@@ -1,0 +1,15 @@
+
+/* Class = "UILabel"; text = "How much do they like dogs?"; ObjectID = "63s-2K-HW3"; */
+"63s-2K-HW3.text" = "How much do they like dogs?";
+
+/* Class = "UILabel"; text = "👍"; ObjectID = "RWr-1m-fkA"; */
+"RWr-1m-fkA.text" = "👍";
+
+/* Class = "UITextField"; placeholder = "Name"; ObjectID = "VtA-8K-NTE"; */
+"VtA-8K-NTE.placeholder" = "Name";
+
+/* Class = "UILabel"; text = "👎"; ObjectID = "XLb-MV-8Hz"; */
+"XLb-MV-8Hz.text" = "👎";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "gQm-Ra-9cx"; */
+"gQm-Ra-9cx.text" = "Title";
