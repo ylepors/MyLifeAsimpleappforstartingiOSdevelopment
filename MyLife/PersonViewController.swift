@@ -70,7 +70,7 @@ class PersonViewController: UITableViewController, UITextFieldDelegate {
     
     override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
         // Only update the person if the done button was tapped.
-        if let sender = sender as? UIBarButtonItem!, sender === doneButton {
+        if let sender = sender as? UIBarButtonItem?, sender === doneButton {
             let name = nameTextField.text
             let image = imageButton.image(for: [])
             let dogPreference = preferenceSlider.value
